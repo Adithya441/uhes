@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Adithya441/uhes.git/static/css/main.ddc237c9.css",
+    "main.js": "/Adithya441/uhes.git/static/js/main.ed5591cf.js",
+    "static/js/213.cdf9841b.chunk.js": "/Adithya441/uhes.git/static/js/213.cdf9841b.chunk.js",
+    "static/js/917.6759d8c4.chunk.js": "/Adithya441/uhes.git/static/js/917.6759d8c4.chunk.js",
+    "pdfmake.js": "/Adithya441/uhes.git/static/js/pdfmake.25bdd4a1.chunk.js",
+    "canvg.js": "/Adithya441/uhes.git/static/js/canvg.39f848d2.chunk.js",
+    "xlsx.js": "/Adithya441/uhes.git/static/js/xlsx.e1ee47d0.chunk.js",
+    "static/js/817.42cba653.chunk.js": "/Adithya441/uhes.git/static/js/817.42cba653.chunk.js",
+    "static/media/i1": "/Adithya441/uhes.git/static/media/i1.7d70dd04abe5757613b2",
+    "static/media/i3": "/Adithya441/uhes.git/static/media/i3.37a5916010d640a83389",
+    "static/media/img2.gif": "/Adithya441/uhes.git/static/media/img2.6fdf6f7f6e2cdc0643c0.gif",
+    "index.html": "/Adithya441/uhes.git/index.html",
+    "main.ddc237c9.css.map": "/Adithya441/uhes.git/static/css/main.ddc237c9.css.map",
+    "main.ed5591cf.js.map": "/Adithya441/uhes.git/static/js/main.ed5591cf.js.map",
+    "213.cdf9841b.chunk.js.map": "/Adithya441/uhes.git/static/js/213.cdf9841b.chunk.js.map",
+    "917.6759d8c4.chunk.js.map": "/Adithya441/uhes.git/static/js/917.6759d8c4.chunk.js.map",
+    "pdfmake.25bdd4a1.chunk.js.map": "/Adithya441/uhes.git/static/js/pdfmake.25bdd4a1.chunk.js.map",
+    "canvg.39f848d2.chunk.js.map": "/Adithya441/uhes.git/static/js/canvg.39f848d2.chunk.js.map",
+    "xlsx.e1ee47d0.chunk.js.map": "/Adithya441/uhes.git/static/js/xlsx.e1ee47d0.chunk.js.map",
+    "817.42cba653.chunk.js.map": "/Adithya441/uhes.git/static/js/817.42cba653.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddc237c9.css",
+    "static/js/main.ed5591cf.js"
+  ]
+}
